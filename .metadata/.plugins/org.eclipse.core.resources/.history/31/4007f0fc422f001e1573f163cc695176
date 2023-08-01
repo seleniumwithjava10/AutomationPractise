@@ -1,0 +1,15 @@
+package com.automationversion1.mypackage;
+
+public class TestDemo2 {
+	
+	public static void main(String[] args) {
+		final int i=20;
+		
+		int j= i+20;
+		
+		i=j+30;
+		
+		System.out.println(i+" "+j);
+	}
+
+}

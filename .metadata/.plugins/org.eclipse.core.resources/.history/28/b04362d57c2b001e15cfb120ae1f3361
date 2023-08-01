@@ -1,0 +1,20 @@
+package com.automationversion1.syncronizationconcepts;
+
+public class test {
+	
+	static {
+		System.out.println("hello");
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(80+80+"hello"+80+80);
+		
+		String str= "hello";
+		
+		String str1= new String("hello");
+		
+		System.out.println(str==str1);
+		System.out.println(str.equals(str1));
+	}
+
+}
