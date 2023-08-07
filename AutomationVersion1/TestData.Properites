@@ -1,5 +1,5 @@
-url = https://www.letskodeit.com/login
+url = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
-username = gurumohan@gmail.com
+username = Admin
 
-password = Testing@123
+password = admin123
